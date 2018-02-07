@@ -1,0 +1,10 @@
+C:\Users\sara\epicodus\rectangle-checker\obj\Debug\netcoreapp1.1\rectangle_checker.csproj.CoreCompileInputs.cache
+C:\Users\sara\epicodus\rectangle-checker\obj\Debug\netcoreapp1.1\rectangle_checker.AssemblyInfoInputs.cache
+C:\Users\sara\epicodus\rectangle-checker\obj\Debug\netcoreapp1.1\rectangle_checker.AssemblyInfo.cs
+C:\Users\sara\epicodus\rectangle-checker\bin\Debug\netcoreapp1.1\rectangle_checker.deps.json
+C:\Users\sara\epicodus\rectangle-checker\bin\Debug\netcoreapp1.1\rectangle_checker.runtimeconfig.json
+C:\Users\sara\epicodus\rectangle-checker\bin\Debug\netcoreapp1.1\rectangle_checker.runtimeconfig.dev.json
+C:\Users\sara\epicodus\rectangle-checker\bin\Debug\netcoreapp1.1\rectangle_checker.dll
+C:\Users\sara\epicodus\rectangle-checker\bin\Debug\netcoreapp1.1\rectangle_checker.pdb
+C:\Users\sara\epicodus\rectangle-checker\obj\Debug\netcoreapp1.1\rectangle_checker.dll
+C:\Users\sara\epicodus\rectangle-checker\obj\Debug\netcoreapp1.1\rectangle_checker.pdb
